@@ -1,39 +1,39 @@
 # Dirceu Vaz 👨‍💻
 
-IT Infrastructure Analyst | DevOps Student | Linux | Docker | Networking
+Analista de Infraestrutura de TI | Estudante de DevOps | Linux | Docker | Redes
 
-Profissional de infraestrutura de TI com experiência em suporte, virtualização e administração de ambientes corporativos. Atualmente focado em Docker, automação e cultura DevOps.
+Profissional de infraestrutura de TI com experiência em suporte técnico, virtualização e administração de ambientes corporativos. Atualmente focado em Docker, automação e práticas DevOps.
 
-## Tech Stack
+## Stack Técnica
 
-**Infrastructure**
-Linux • Windows Server • Networking • Virtualization
+**Infraestrutura**  
+Linux • Windows Server • Redes • Virtualização  
 
-**DevOps**
-Docker • Git • GitHub • CI/CD (learning)
+**DevOps**  
+Docker • Git • GitHub • CI/CD (em estudo)  
 
-**Tools**
-GLPI • Proxmox • pfSense • Mikrotik • Ubiquiti
+**Ferramentas**  
+GLPI • Proxmox • pfSense • Mikrotik • Ubiquiti  
 
-**Automation**
-Bash (learning) • PowerShell (learning)
+**Automação**  
+Bash (em estudo) • PowerShell (em estudo)  
 
-## Projects
+## Projetos
 
-**GLPI Docker Environment**
-Deploy do GLPI com Docker Compose para ambiente ITSM.
+**Ambiente GLPI com Docker**  
+Deploy do GLPI utilizando Docker Compose para gestão de serviços de TI (ITSM).
 
-**Linux Infrastructure Lab**
-Hardening, firewall, users management e scripts de backup.
+**Laboratório de Infraestrutura Linux**  
+Implementação de hardening, firewall, gerenciamento de usuários e scripts de backup.
 
-## Goals
+## Objetivos
 
 Docker • Kubernetes • CI/CD • Cloud • Infrastructure as Code
 
-## Contact
+## Contato
 
-LinkedIn:
+LinkedIn:  
 https://www.linkedin.com/in/dirceu-vaz/
 
-Email:
+Email:  
 dirceu.info@gmail.com
