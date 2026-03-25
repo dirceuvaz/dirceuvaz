@@ -1,67 +1,39 @@
-## Olá, seja bem vindo, me chamo Dirceu VAz 👋
+# Dirceu Vaz 👨‍💻
 
-💻 Analista de Sistemas / Infraestrutura de TI  
-🚀 Em transição para DevOps / Nuvem  
-🛠 Experiência com suporte técnico em hardware/software e administração de ambientes corporativos 
-📚 Estudando automação, banco de dados, containers e cultura DevOps  
+IT Infrastructure Analyst | DevOps Student | Linux | Docker | Networking
 
-## 🧰 Stack técnica
+Profissional de infraestrutura de TI com experiência em suporte, virtualização e administração de ambientes corporativos. Atualmente focado em Docker, automação e cultura DevOps.
 
-### Infraestrutura
-- Linux (Ubuntu / Debian)
-- Windows Server 
-- Redes (Firewall Pfsense, Mikrotik, UniFI Ubiquiti)
-- Virtualização (Proxmox, Oracle Virtual Box, KVM Linux, Docker)
+## Tech Stack
 
-### DevOps
-- Docker
-- Git
-- GitHub
-- CI/CD (estudando)
+**Infrastructure**
+Linux • Windows Server • Networking • Virtualization
 
-### ITSM
-- GLPI
-- Gestão de chamados
-- Gestão de ativos
+**DevOps**
+Docker • Git • GitHub • CI/CD (learning)
 
-### Automação
-- Bash (estudando)
-- PowerShell (estudando)
+**Tools**
+GLPI • Proxmox • pfSense • Mikrotik • Ubiquiti
 
-## 📂 Projetos
+**Automation**
+Bash (learning) • PowerShell (learning)
 
-### GLPI Docker Environment
-Ambiente GLPI utilizando Docker Compose.
+## Projects
 
-Objetivo:
-Padronizar deploy e facilitar escalabilidade.
+**GLPI Docker Environment**
+Deploy do GLPI com Docker Compose para ambiente ITSM.
 
-Tecnologias:
-- Docker
-- Docker Compose
-- MariaDB
-- Linux
+**Linux Infrastructure Lab**
+Hardening, firewall, users management e scripts de backup.
 
-### Linux Infrastructure Lab
-Laboratório com configuração de serviços Linux.
+## Goals
 
-Implementações:
-- SSH hardening
-- Users management
-- Firewall configuration
-- Backup scripts
+Docker • Kubernetes • CI/CD • Cloud • Infrastructure as Code
 
-## 📈 Objetivos 2026
-
-- Aprofundar Docker
-- Aprender Kubernetes
-- Estudar CI/CD
-- Cloud (AWS ou Azure)
-- Infra as Code
-
-## 📫 Contato
-- Telefone / WhatsApps: (85) 98657.6308
-- E-mail: dirceu.info@gmail.com
+## Contact
 
 LinkedIn:
 https://www.linkedin.com/in/dirceu-vaz/
+
+Email:
+dirceu.info@gmail.com
