@@ -1,6 +1,6 @@
 # Dirceu Vaz 👨‍💻
 
-Analista de Infraestrutura de TI | Estudante de DevOps | Linux | Docker | Redes
+Analista Sistemas e Infraestrutura de TI | Estudante de DevOps | Linux | Docker | Redes
 
 Profissional de infraestrutura de TI com experiência em suporte técnico, virtualização e administração de ambientes corporativos. Atualmente focado em Docker, automação e práticas DevOps.
 
