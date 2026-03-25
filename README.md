@@ -1,16 +1,67 @@
-## Hi there 👋
+## Olá, seja bem vindo, me chamo Dirceu VAz 👋
 
-<!--
-**dirceuvaz/dirceuvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Sistemas / Infraestrutura de TI  
+🚀 Em transição para DevOps / Nuvem  
+🛠 Experiência com suporte técnico em hardware/software e administração de ambientes corporativos 
+📚 Estudando automação, banco de dados, containers e cultura DevOps  
 
-Here are some ideas to get you started:
+## 🧰 Stack técnica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Infraestrutura
+- Linux (Ubuntu / Debian)
+- Windows Server 
+- Redes (Firewall Pfsense, Mikrotik, UniFI Ubiquiti)
+- Virtualização (Proxmox, Oracle Virtual Box, KVM Linux, Docker)
+
+### DevOps
+- Docker
+- Git
+- GitHub
+- CI/CD (estudando)
+
+### ITSM
+- GLPI
+- Gestão de chamados
+- Gestão de ativos
+
+### Automação
+- Bash (estudando)
+- PowerShell (estudando)
+
+## 📂 Projetos
+
+### GLPI Docker Environment
+Ambiente GLPI utilizando Docker Compose.
+
+Objetivo:
+Padronizar deploy e facilitar escalabilidade.
+
+Tecnologias:
+- Docker
+- Docker Compose
+- MariaDB
+- Linux
+
+### Linux Infrastructure Lab
+Laboratório com configuração de serviços Linux.
+
+Implementações:
+- SSH hardening
+- Users management
+- Firewall configuration
+- Backup scripts
+
+## 📈 Objetivos 2026
+
+- Aprofundar Docker
+- Aprender Kubernetes
+- Estudar CI/CD
+- Cloud (AWS ou Azure)
+- Infra as Code
+
+## 📫 Contato
+- Telefone / WhatsApps: (85) 98657.6308
+- E-mail: dirceu.info@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/dirceu-vaz/
